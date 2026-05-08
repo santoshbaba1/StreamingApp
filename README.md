@@ -134,5 +134,5 @@ Automated tests are not yet included. Recommended smoke checks:
 3. Confirm playback from the browse page and verify that chat messages broadcast between multiple browser tabs.
 
 ## License
-Santosh Kumar Sharma
+Santosh Kumar Sharma(12394)
 MIT © StreamFlix Team

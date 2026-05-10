@@ -2,8 +2,7 @@
 
 Stream premium video content, host live watch parties, and manage your catalogue with a modern microservice architecture. The platform now ships with a production-ready admin portal, real-time chat, S3-backed adaptive streaming, and a redesigned cinematic frontend experience.
 
--<img width="1536" height="1024" alt="ChatGPT Image May 8, 2026, 10_24_49 PM" src="https://github.com/user-attachments/assets/4855fe0b-7ce4-40f6-a6d7-7c7fed3cae1e" />
-
+<img width="1536" height="1024" alt="ChatGPT Image May 8, 2026, 10_30_47 PM" src="https://github.com/user-attachments/assets/2e930753-90f8-4f54-9316-27049e4b4217" />
 
 ## Architecture
 
@@ -90,6 +89,31 @@ REACT_APP_CHAT_SOCKET_URL=http://localhost:3004
 The compose file provisions MongoDB plus all four Node.js microservices. S3 credentials are optional for local testing—you can still browse seeded metadata, but streaming requires valid S3 objects.
 
 ## Local Development
+
+<img width="1908" height="297" alt="stream serv" src="https://github.com/user-attachments/assets/8b093ac2-10d9-46be-8cbc-ee1f1ebeeb1d" />
+<img width="1906" height="311" alt="auth service" src="https://github.com/user-attachments/assets/b76d42cf-d38f-4b85-a194-58a78c6898d0" />
+<img width="1907" height="295" alt="admin service" src="https://github.com/user-attachments/assets/1fc79b7c-4cd3-46da-919d-ca8df5940238" />
+<img width="1358" height="720" alt="st we" src="https://github.com/user-attachments/assets/b0009ed9-e27e-420e-b69e-bb41d9668e59" />
+<img width="1364" height="720" alt="st-aws key" src="https://github.com/user-attachments/assets/952be0b3-44db-44ad-bdeb-03ac54217b10" />
+<img width="1314" height="665" alt="st login 1" src="https://github.com/user-attachments/assets/fe875ba0-0326-4f97-869e-4ac101a1464f" />
+<img width="1315" height="671" alt="ec2-2" src="https://github.com/user-attachments/assets/a4f67bcc-a3d0-4a8c-99d8-46dbcc301655" />
+
+<img width="1315" height="662" alt="video run" src="https://github.com/user-attachments/assets/f31c8989-8ec8-45c5-aa76-829593c5c3e8" />
+<img width="1323" height="661" alt="chat service" src="https://github.com/user-attachments/assets/ff522e36-79f7-49e6-88fc-5890fe2801e8" />
+
+<img width="1908" height="297" alt="stream serv" src="https://github.com/user-attachments/assets/a60c475d-ff5f-40fc-a3d6-6fb898a69088" />
+
+<img width="1365" height="716" alt="st-upload-run user" src="https://github.com/user-attachments/assets/edfd198e-247e-40be-920e-d84d5efaf48a" />
+
+<img width="1918" height="1017" alt="docker buid" src="https://github.com/user-attachments/assets/bfff5c93-89ac-4bab-bff2-552ad1a48cdd" />
+<img width="1918" height="1021" alt="doc comp" src="https://github.com/user-attachments/assets/1fabf066-ed1e-4743-acec-82dbdc8af628" />
+<img width="1317" height="670" alt="user" src="https://github.com/user-attachments/assets/5b82d54a-7644-4c39-bd15-0660dbec9336" />
+
+
+
+
+
+
 
 Install dependencies for each service:
 
